@@ -1,0 +1,10 @@
+/* make sidebar nav vertical */ 
+.profile-pic {
+  overflow:hidden;
+  -webkit-border-radius:50px;
+  -moz-border-radius:50px;
+  border-radius:100%;
+  width:220px;
+  height:280px;
+  background-size:90px 0px; 
+}

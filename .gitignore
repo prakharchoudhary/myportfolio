@@ -1,0 +1,18 @@
+# python binaries
+__pycache__/
+*.pyc
+*.pyd
+
+# files with important keys
+secrets.py
+
+# db
+*.sqlite3
+
+# environment info
+env/
+linux_env/
+
+
+# others
+notes.txt
